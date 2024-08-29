@@ -21,3 +21,4 @@ public class HelloService {
     }
 
 }
+// java -cp target/classes org.example.SpringECI org.example.Suma 
